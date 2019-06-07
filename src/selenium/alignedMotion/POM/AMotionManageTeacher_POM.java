@@ -79,8 +79,7 @@ public class AMotionManageTeacher_POM {
 		 */
 	}
 
-
-	public void changePassword_POM(WebDriver driver) {
+/*	public void changePassword_POM(WebDriver driver) {
 		Utility.temporaryWaitSolutionShort();
 		Utility.clickThis(driver, profileMenuButton);
 		Utility.temporaryWaitSolutionShort();
@@ -101,6 +100,6 @@ public class AMotionManageTeacher_POM {
 		}
 		Utility.clickThis(driver, notifCloseButton);
 
-	}
+	}*/
 
 }
