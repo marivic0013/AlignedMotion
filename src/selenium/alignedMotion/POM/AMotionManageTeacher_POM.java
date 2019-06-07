@@ -57,7 +57,7 @@ public class AMotionManageTeacher_POM {
 
 	}
 
-	/*public void edit_PersonalInfo_TeacherLvl_POM(WebDriver driver) {
+	public void edit_PersonalInfo_TeacherLvl_POM(WebDriver driver) {
 		Utility.temporaryWaitSolutionShort();
 		Utility.clickThis(driver, profileMenuButton);
 		Utility.clickThis(driver, myAccountButton);
@@ -77,7 +77,7 @@ public class AMotionManageTeacher_POM {
 		 * 
 		 * else { Assert.fail(); }
 		 */
-
+	}
 
 
 	public void changePassword_POM(WebDriver driver) {
